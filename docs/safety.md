@@ -2,15 +2,6 @@
 
 read this before you plug anything in.
 
-## floor rules (KIT nova)
-
-- follow whatever nova staff and hack//ops crew say on the day. their call wins.
-- know where the first-aid kit and fire extinguisher are.
-- no open flame. soldering only in designated areas with ventilation / fume
-  awareness as briefed on site.
-- eye protection when cutting, drilling, or snipping wire close to your face.
-- food and drinks away from powered benches.
-
 ## power
 
 - check voltage **before** connecting motors or batteries. wrong supply =

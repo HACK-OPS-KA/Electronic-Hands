@@ -1,8 +1,6 @@
 # Electronic-Hands
 
-kit docs and agent pack for **hack//ops op//002** — the hardware weekend at KIT nova
-(04.12 – 06.12.2026).
-
+kit docs and agent pack for **hack//ops op//002**
 if it does not physically exist in the room, it does not count.
 
 this repo is **not** a project submission archive. demos are live, on the bench.

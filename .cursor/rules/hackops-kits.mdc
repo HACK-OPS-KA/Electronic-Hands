@@ -1,0 +1,19 @@
+---
+description: hack//ops Electronic-Hands kit rules — read AGENTS.md and kit docs before coding hardware
+alwaysApply: true
+---
+
+# Electronic-Hands (op//002)
+
+This repo is the **kit + agent pack** for hack//ops op//002. Demos are in person.
+There is no team submission archive here.
+
+Before writing firmware, SDK code, or wiring advice:
+
+1. Read `AGENTS.md` and `docs/safety.md`.
+2. Identify the kit: Reachy Mini, SO-ARM101, Arduino + sensors, or CrowPanel Advance.
+3. Read `docs/kits/<kit>.md` and `.cursor/skills/<kit>/SKILL.md`.
+4. Prefer official upstream docs linked from the kit page. Do not invent APIs,
+   pinouts, motor voltages, or Arduino core versions.
+5. Do not commit secrets. Do not reflash shared kits without confirmation.
+6. First milestone: one physical hello-world on real hardware.

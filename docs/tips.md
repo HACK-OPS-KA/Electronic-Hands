@@ -23,7 +23,6 @@ practical notes for op//002. pair with [safety.md](safety.md) and your kit page.
 
 - label your breadboard jumper mess; leave loaner robots in a known rest pose.
 - if you calibrate an SO-ARM, note the `id` you used and tell the next team.
-- do not hoard the only CrowPanel or Reachy Mini overnight without asking.
 
 ## sensors and noise
 
@@ -31,7 +30,7 @@ practical notes for op//002. pair with [safety.md](safety.md) and your kit page.
 - debounce buttons in software or hardware; raw digital pins bounce.
 - I2C: check address conflicts; pull-ups are often already on modules.
 
-## demo readiness (sunday)
+## demo readiness
 
 - demo is live in the room. bring a short script: what it is → what moves /
   senses → one proof → what broke and how you fixed it.
@@ -39,7 +38,6 @@ practical notes for op//002. pair with [safety.md](safety.md) and your kit page.
   effect in under 60 seconds.
 - backup video on your phone is fine for the archive, not a substitute for
   the live demo.
-- photos: if you answered **no** on lu.ma, grab a sticker at check-in.
 
 ## agent use
 
